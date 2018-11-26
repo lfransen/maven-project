@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <mule 
-
 xmlns:jdbc-ee="http://www.mulesoft.org/schema/mule/ee/jdbc" 
 xmlns:db="http://www.mulesoft.org/schema/mule/db" 
 xmlns:json="http://www.mulesoft.org/schema/mule/json"
